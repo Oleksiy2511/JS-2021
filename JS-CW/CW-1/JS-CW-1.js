@@ -31,43 +31,43 @@
 
 
 //////////// 4. Створити масив об'єктів book з наступними полями  - назва, кількість сторінок, жанр, автори. Вивести кожну книгу як окремий об'єкт
-// let book1= {
-//     name:'ПДР',
-//     page:99,
-//     genre:'Правила',
-//     author:'Поліція'
-//         }
-// let book2= {
-//     name:'Рецепти',
-//     page:99,
-//     genre:'Наукова фантастика',
-//     author:'Народи світу'
-//         }
-// let book3= {
-//     name:'Закон',
-//     page:999,
-//     genre:'Правила, закони',
-//     author:'Поліція'
-//         }
-// let book4= {
-//     name:'Буквар',
-//     page:199,
-//     genre:'Наукова література',
-//     author:'Народ'
-//         }
-// let book5= {
-//     name:'Математика',
-//     page:599,
-//     genre:'Наукова література та цифри',
-//     author:'Люди'
-//         }
-// let librari = [book1, book2, book3, book4, book5];
-// console.log(librari[0]);
+let book1= {
+    name:'ПДР',
+    page:99,
+    genre:'Правила',
+    author:'Поліція'
+        }
+let book2= {
+    name:'Рецепти',
+    page:99,
+    genre:'Наукова фантастика',
+    author:'Народи світу'
+        }
+let book3= {
+    name:'Закон',
+    page:999,
+    genre:'Правила, закони',
+    author:'Поліція'
+        }
+let book4= {
+    name:'Буквар',
+    page:199,
+    genre:'Наукова література',
+    author:'Народ'
+        }
+let book5= {
+    name:'Математика',
+    page:599,
+    genre:'Наукова література та цифри',
+    author:'Люди'
+        }
+let librari = [book1, book2, book3, book4, book5];
+console.log(librari[0]);
 // console.log(librari[0][3]);
-//пробував ставити після [0] ще [3] нічого не показує. то так і треба, чи я щось намутив?
-//хотів щоб показало book1 та book4 одночасно, не працює.
-// console.log(book2.genre);
-// console.log(book4.name);
+// пробував ставити після [0] ще [3] нічого не показує. то так і треба, чи я щось намутив?
+// хотів щоб показало book1 та book4 одночасно, не працює.
+console.log(book2.genre);
+console.log(book4.name);
 
 
 
