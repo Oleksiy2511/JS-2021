@@ -1,9 +1,9 @@
 
 /*///  створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б*/
-function areaRectangle (a,b,action) {
-  if (action==='*')
-    return a*b;
-}
+// function areaRectangle (a,b,action) {
+//   if (action==='*')
+//     return a*b;
+// }
 
 /*// - створити функцію яка обчислює та повертає площу кола з радіусом r*/
 
