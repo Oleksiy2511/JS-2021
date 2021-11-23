@@ -62,19 +62,18 @@
 // let lohotron=+prompt('введіть цифру');
 //     switch (lohotron){
 //     case 1:console.log('car');
-//     case 1:document.write('car');
+//     document.write('car');
 //     break;
 //     case 2:console.log('moto');
-//     case 2:document.write('moto');
-//     break;
+//     document.write('moto');    break;
 //     case 3:console.log('phone');
-//     case 3:document.write('phone');
+//     document.write('phone');
 //     break;
 //     case 4:console.log('loshara');
-//     case 4:document.write('loshara');
+//     document.write('loshara');
 //     break;
 //     case 5:console.log('life');
-//     case 5:document.write('life');
+//     document.write('life');
 //     break;
 //     default:console.log('число не вірне');
 // }
