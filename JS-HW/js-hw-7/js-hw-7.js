@@ -61,6 +61,6 @@
 // console.log(emptyArray.sort((a, b) => a.order.length - b.order.length));
 
 
-
+///підкажіть самоучитель, сайт, бібліотеку або щось такого типу по JS, бо дуже тяжко заходе////
 
 
