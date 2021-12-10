@@ -1,5 +1,3 @@
-
-
 // Ваше завдання, зробити так, щоб файл відкривався без помилок .
 
 let a = 100;
@@ -12,9 +10,7 @@ const x = 'constant value';
     a = 'new value';
 }
 let y = 'new value';
-
 let result = 100 + y;
-
 console.log(result);
 
 
